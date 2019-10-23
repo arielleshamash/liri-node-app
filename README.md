@@ -14,3 +14,4 @@ spotify-this | uses the **spotify** API to take a song name from the user and re
 movie-this | uses the **OMDB** API to take a movie name and returns the name, cast, release year, IMDB and Rotten Tomatoes rating, country of origin, language and plot 
 ![movie](/images/movie-this.png)
 do-this | uses the built in **readFile()** method to access data from a prepopulated .txt file and return its information as a command/search query.
+
